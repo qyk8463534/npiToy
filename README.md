@@ -1,2 +1,2 @@
-# npiToy
-A Toy implementation of neural programmer interpreter
+# npi Toy
+A Toy implementation of neural programmer interpreter with bucket sort.
